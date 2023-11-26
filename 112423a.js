@@ -60,6 +60,7 @@ function makeDistortedDots(amount, rez) {
 }
 
 
+
 function keyPressed() {
   if (key == ' ') redraw(); // If the spacebar is pressed, redraw the canvas
 }
